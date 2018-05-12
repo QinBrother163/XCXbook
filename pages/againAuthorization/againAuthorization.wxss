@@ -1,0 +1,13 @@
+/* pages/againAuthorization/againAuthorization.wxss */
+#root{
+  text-align: center;
+}
+.open-wrap{
+  margin-top: 4rem;
+}
+.open-txt{
+  color: #333;
+}
+.open-btn{
+  margin-top: 8rem;
+}

@@ -1,0 +1,7 @@
+<!--pages/signIn/signIn.wxml-->
+<view id='root'>
+  <view class='open-wrap'>
+    <text class='open-txt'>欢迎来到小程序</text>
+    <button class='open-btn' open-type="getUserInfo" bindgetuserinfo="getUserInfo">登陆</button>
+  </view>
+</view>

@@ -1,0 +1,8 @@
+<!--pages/againAuthorization/againAuthorization.wxml-->
+<!-- <text>pages/againAuthorization/againAuthorization.wxml</text> -->
+<view id='root'>
+  <view class='open-wrap'>
+    <text class='open-txt'>小程序需要您的微信授权才可以使用哦！</text>
+    <button class='open-btn' open-type="getUserInfo" bindgetuserinfo="getUserInfo">重新授权</button>
+  </view>
+</view>
